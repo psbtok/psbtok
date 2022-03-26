@@ -1,9 +1,9 @@
 ### Welcome! My name's Peter
 
-- ⚡ I'm a Web developer with experience in JavaScript, React, HTML5, CSS3.
-- 👀 I have an experience in Python programming using many modules such as Django, BeautifulSoup, Threading, Socket.
-- Some of many project use various API's provided by YouTube, Telegram, Twitch, VK.
-- 🌱 Currently learning Django, React and Node.js.
+- ⚡ I am a Web developer with experience in JavaScript, React, HTML5, CSS3.
+- 🐍 I've been applying Python in my projects combined with many modules such as Django, BeautifulSoup, Threading, Socket.
+- ☁️ Some of many project use various API's provided by YouTube, Telegram, Twitch, VK.
+- 🎍 Currently learning Django, React and Node.js.
 - 📫 How to reach me: opletaevpetr@mail.com / https://peteropletaev.netlify.app/
 
 ### Connect with me:
