@@ -4,7 +4,8 @@
 - 🐍 I've been applying Python in my projects combined with many modules such as Django, BeautifulSoup, Threading, Socket.
 - ☁️ Some of my projects use various API's provided by YouTube, Telegram, Twitch, VK.
 - 🎍 Currently learning Django, React and Node.js.
-- 📫 How to reach me: opletaevpetr@mail.com / https://peteropletaev.netlify.app/
+- 🏛️ Besides coding, I'm highly interested in economies of the world and logistics!
+- 📫 Reach me here: opletaevpetr@mail.com / https://peteropletaev.netlify.app/
 
 ### Connect with me:
 
