@@ -27,7 +27,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
-[website]: https://egorkabantsov.netlify.app/
-[vk]: https://vk.com/egor_kabantsov
-[instagram]: https://www.instagram.com/egokabs
-[facebook]: https://www.facebook.com/egor.ka.5055/
+[website]: https://peteropletaev.netlify.app
+[vk]: https://vk.com/psbtok
+[telegram]: https://t.me/psbtok
