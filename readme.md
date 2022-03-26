@@ -1,17 +1,16 @@
 ### Welcome! My name's Peter
 
 - ⚡ I'm a Web developer with experience in JavaScript, React, HTML5, CSS3.
-- 👀 I have an experience in Python programming using many modules such as Django, BeautifulSoup, Threading, socket
-- Some of many project use various API's provided by YouTube, Telegram, Twitch, VK
-- 🌱 I’m currently learning Django, React and Node.js
+- 👀 I have an experience in Python programming using many modules such as Django, BeautifulSoup, Threading, Socket.
+- Some of many project use various API's provided by YouTube, Telegram, Twitch, VK.
+- 🌱 Currently learning Django, React and Node.js.
 - 📫 How to reach me: opletaevpetr@mail.com / https://peteropletaev.netlify.app/
 
 ### Connect with me:
 
-[<img align="left" alt="egorkabantsov.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://vk.com/egor_kabantsov" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][VK]
-[<img align="left" alt="https://www.facebook.com/egor.ka.5055/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="https://www.instagram.com/egokabs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="peteropletaev.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://vk.com/psbtok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][VK]
+[<img align="left" alt="https://t.me/psbtok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
