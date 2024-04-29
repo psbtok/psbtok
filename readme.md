@@ -9,4 +9,4 @@
 
 - 🚴 Cycling and running enthusiast.
 
-- 📫 Reach me here: opletaevpetr@mail.ru / linkedin.com/in/peter-opletaev
+- 📫 Reach me here: [opletaevpetr@mail.ru](opletaevpetr@mail.ru)  / [linkedin](linkedin.com/in/peter-opletaev) / [telegram](https://t.me/psbtok)
