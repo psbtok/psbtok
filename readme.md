@@ -5,7 +5,7 @@
 
 - 🐍 An active Python user.
 
-- 🎓 Bachelors in Automation Engineering, Masters in AI and Behavioral Economics '25
+- 🎓 Bachelors in Automation Engineering, Masters in AI and Behavioral Economics '25.
 
 - 🚴 Cycling and running enthusiast.
 
